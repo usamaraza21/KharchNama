@@ -1,4 +1,0 @@
-repository "RFR/KharchNama@18967049185107@cloud"
-  path "/"
-    br "/main"
-    co "/main"
